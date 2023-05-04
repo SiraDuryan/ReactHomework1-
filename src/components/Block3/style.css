@@ -1,0 +1,26 @@
+.Block3 {
+    background-image: url(https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/mcgillis-university/13c6dddf-mcgillis-university-testimonial-background_1hc0zc1hc0jg00007y01o.jpg);
+    height: 350px;
+    width: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.shadow {
+    position: absolute;
+    background: rgba(40,40,40,0.9);
+    height: 350px;
+    width: 100%;
+    
+}
+
+.text {
+    height: 200px;
+    width: 100%;
+    position: relative;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
